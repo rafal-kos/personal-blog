@@ -5,7 +5,7 @@ module.exports = {
   title: 'Blog by Rafał Kos',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'www-empisoft-com',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-133739572-1',
   menu: [
