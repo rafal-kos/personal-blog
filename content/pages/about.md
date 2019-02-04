@@ -14,3 +14,5 @@ Good knowledge of :
 * server administration
 
 In free time I like to play [boardgames](https://boardgamegeek.com/user/xjonc), snowboard and sail :)
+
+This blog is build on [Gatsby](https://www.gatsbyjs.org/) with [gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen). Code of it can be found on my [github](https://github.com/rafal-kos/personal-blog).
