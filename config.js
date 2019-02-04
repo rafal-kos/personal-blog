@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://www.empisoft.pl',
+  url: 'https://www.empisoft.com',
   title: 'Blog by Rafał Kos',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
