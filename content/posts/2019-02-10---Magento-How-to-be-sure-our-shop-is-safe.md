@@ -1,8 +1,8 @@
 ---
 title: How to be sure that my Magento 1 shop is secure? 
-date: "2019-02-10T14:30:37.121Z"
+date: "2019-02-04T20:27:37.121Z"
 template: "post"
-draft: true
+draft: false
 slug: "/posts/how-to-be-sure-that-my-magento-1-shop-is-secure/"
 category: "Magento 1"
 tags:
@@ -37,6 +37,20 @@ Fixed In:   1.4.9
 Update URL: https://amasty.com/improved-sorting.html
 ```
 
-## Enable Magento Security Scan
+## Enable Magento Security Scanner
 
-Some time ago Magento has released tool that is able to 
+Some time ago Magento has released [tool](https://account.magento.com/scanner/) that is able to regulary scan your website looking for vulnerabilities. Below example output.
+
+![Magento Security Sca](/media/security-1.png)
+
+## Magento Malware Scanner
+
+To be sure that your server was not compromised and any malware wasn't added to the project it's a good idea to scan project source for any suspicious code. For that you can use [Malware Magento Scanner](https://github.com/gwillem/magento-malware-scanner) written again by written by [Willem de Groot](https://twitter.com/gwillem).
+You can run it manually with this commands 
+
+```
+wget https://mwscan.s3.amazonaws.com/mwscan.txt
+grep -Erlf mwscan.txt /path/to/magento
+```
+
+Advanced usage can be found on the project page [here](https://github.com/gwillem/magento-malware-scanner/blob/master/docs/usage.md). 
