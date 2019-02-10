@@ -1,5 +1,5 @@
 ---
-title: How to be disable moduler per environment? 
+title: How to be disable module per environment? 
 date: "2019-02-10T10:27:37.121Z"
 template: "post"
 draft: false
