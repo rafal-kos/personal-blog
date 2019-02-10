@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://www.empisoft.com',
-  title: 'Blog by Rafał Kos',
+  title: 'Magento Blog by Rafał Kos',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: 'www-empisoft-com',
