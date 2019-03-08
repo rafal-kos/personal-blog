@@ -1,5 +1,6 @@
 ---
 title: "About me"
+subtitle: "Short info about me"
 template: "page"
 ---
 
