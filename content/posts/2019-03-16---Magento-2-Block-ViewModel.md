@@ -27,7 +27,7 @@ New created class could be used as follows :
 ```php
 namespace Vendor\Module\ViewModel;
 
-class Example impletements \Magento\Framework\View\Element\Block\ArgumentInterface
+class Example implements \Magento\Framework\View\Element\Block\ArgumentInterface
 {
   public function __construct()
   {
