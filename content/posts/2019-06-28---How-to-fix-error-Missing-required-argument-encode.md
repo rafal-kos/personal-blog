@@ -1,9 +1,9 @@
 ---
-title: Missing required argument $encoder of MSP\TwoFactorAuth\Model\UserConfigManager.
+title: Missing required argument in Magento 2.3.2.
 date: "2019-06-26T12:02:37.121Z"
 template: "post"
 draft: false
-slug: "/posts/m-2-3-2-how-to-fix-error-missing-required-argument-encode/"
+slug: "/posts/m-2-3-2-how-to-fix-error-missing-required-argument-encoder/"
 category: "Magento 2"
 tags:
   - "Magento 2"
