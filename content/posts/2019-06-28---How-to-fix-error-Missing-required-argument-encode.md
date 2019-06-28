@@ -1,18 +1,17 @@
- ---
- title: Missing required argument $encoder of MSP\TwoFactorAuth\Model\UserConfigManager.
- date: "2019-06-26T12:02:37.121Z"
- template: "post"
- draft: false
- slug: "/posts/m-2-3-2-how-to-fix-error-missing-required-argument-encode/"
- category: "Magento 2"
- tags:
-   - "Magento 2"
-   - "Magento 2.3.2"
-   - "Tips & Tricks"
- description: "How to fix 'Missing required argument $encode'."
- ---
+---
+title: Missing required argument $encoder of MSP\TwoFactorAuth\Model\UserConfigManager.
+date: "2019-06-26T12:02:37.121Z"
+template: "post"
+draft: false
+slug: "/posts/m-2-3-2-how-to-fix-error-missing-required-argument-encode/"
+category: "Magento 2"
+tags:
+  - "Magento 2"
+  - "Tips & Tricks"
+description: "How to fix 'Missing required argument $encode'."
+---
  
- ## How to fix error "Missing required argument ```$encoder``` of ```MSP\TwoFactorAuth\Model\UserConfigManager```".
+## How to fix error "Missing required argument ```$encoder``` of ```MSP\TwoFactorAuth\Model\UserConfigManager```".
 
 On June 25, 2019, the Magento version 2.3.2 was released. Improvements to Magento 2.3.2 require installing libsodium cryptographic library version **1.0.13** or higher. Without this you will get an error in the **MSP_TwoFactorAuth** module.
  
