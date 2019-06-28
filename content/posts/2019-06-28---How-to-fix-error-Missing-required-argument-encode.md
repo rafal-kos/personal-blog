@@ -3,10 +3,11 @@
  date: "2019-06-26T12:02:37.121Z"
  template: "post"
  draft: false
- slug: "/posts/magento2-using-viewmodels/"
+ slug: "/posts/m-2-3-2-how-to-fix-error-missing-required-argument-encode/"
  category: "Magento 2"
  tags:
    - "Magento 2"
+   - "Magento 2.3.2"
    - "Tips & Tricks"
  description: "How to fix 'Missing required argument $encode'."
  ---
