@@ -13,7 +13,7 @@ description: "How to do quick log for local debugging."
 
 ## How to do quick logs for local debugging in Magento 2
 
-In Magento 1 we were able to easily log data using `Mage::log('Test log')`. In Magento 2 it is more complicated. Below solution shouldn't be used on production enviroment:
+In Magento 1 we were able to easily log data using `Mage::log('Test log')`. In Magento 2 it is more complicated. Below dirty trick that shouldn't be used on production enviroment:
 
 ```
 $logger = new \Monolog\Logger('logger', [new \Monolog\Handler\StreamHandler(BP.'/var/log/example.log')]);
