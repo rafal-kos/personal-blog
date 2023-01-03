@@ -1,0 +1,47 @@
+{
+  "title": "Magento Blog by Rafał Kos",
+  "url": "https://www.empisoft.com",
+  "subtitle": "My thoughts and ideas regarding work on Magento projects.",
+  "copyright": "© All rights reserved.",
+  "googleAnalyticsId": "UA-133739572-1",
+  "disqusShortname": "www-empisoft-com",
+  "postsLimit": 4,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "Articles",
+      "path": "/"
+    },
+    {
+      "label": "About me",
+      "path": "/pages/about"
+    },
+    {
+      "label": "Contact me",
+      "path": "/pages/contacts"
+    }
+  ],
+  "author": {
+    "name": "Rafał Kos",
+    "photo": "/photo.jpg",
+    "bio": "Magento Certified Developer",
+    "contacts": {
+      "rss": "",
+      "email": "kosrafal@gmail.com",
+      "github": "rafal-kos",
+      "facebook": "#",
+      "telegram": "#",
+      "twitter": "rafalkos",
+      "linkedin": "#",
+      "instagram": "#",
+      "mastodon": "#",
+      "line": "",
+      "weibo": "",
+      "gitlab": "",
+      "medium": "",
+      "youtube": "",
+      "codepen": "",
+      "soundcloud": ""
+    }
+  }
+}
