@@ -6,11 +6,11 @@ template: "page"
 
 ## Hi
 
-My name is Rafał. I'm [Magento Certified Developer](https://u.magento.com/certification/directory/dev/36019/). I'm working with Magento 1 from more than 8 years and with Magento 2 from 2016. 
+My name is Rafał. I'm [Magento Certified Developer](https://u.magento.com/certification/directory/dev/36019/). I'm working with Magento 1 from more than 8 years and with Magento 2 from 2016.
 I'm specialized in backend performance improvements (profiling, database improvements). I have experience working with projects containing more than 500k products.
 
 Good knowledge of :
-* varnish 
+* varnish
 * algolia
 * server administration
 
